@@ -1,0 +1,8 @@
+for (int i = 0; i < qq; i++){
+asdasdasd
+ghjg
+for (int i = 0; i < qq; i++){
+for (int i = 0; i < qq; i++){
+ghjg
+asdsadsad
+for (intasdad i = 0; i < qq; i++){
